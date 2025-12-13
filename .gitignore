@@ -1,0 +1,46 @@
+# =====================
+# Python
+# =====================
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+
+# Virtual Environments
+venv/
+env/
+backend/venv/
+
+# =====================
+# Jupyter
+# =====================
+.ipynb_checkpoints/
+
+# =====================
+# Node / React
+# =====================
+node_modules/
+build/
+dist/
+
+# =====================
+# Environment files
+# =====================
+.env
+
+# =====================
+# ML Models
+# =====================
+*.pkl
+*.joblib
+
+# =====================
+# Logs
+# =====================
+*.log
+
+# =====================
+# OS Files
+# =====================
+.DS_Store
+Thumbs.db
